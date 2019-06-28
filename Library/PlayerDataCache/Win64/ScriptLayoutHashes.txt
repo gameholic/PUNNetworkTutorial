@@ -32,6 +32,7 @@ e1bbf0ab858085e38fae6b12ebbdcd35 UnityEngine.Timeline.dll:UnityEngine.Timeline.P
 ee1dba1a186ac062d564e9eb73a1c56f PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.GraphicToggleIsOnTransition
 c656dcc13ae391b68d594cc8f9c590b0 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.CurrentRoomMaxPlayersProperty
 3ba023cd67d72cace33969ab863e0fd4 PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.PhotonStatsGui
+d1f07c9e64b7817e6271f80bb03de25f Assembly-CSharp.dll:GameHolic.PUNTutorial.GameManager
 8ae3331b163cc121825eeed3975d6c4d Assembly-CSharp.dll:.ChatGui
 74c875e0f15c48e0a55f06093aa93e15 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.LayoutElementMatchSize
 e7a73f5f78ba6445195ec23b74a1ce2d Unity.TextMeshPro.dll:TMPro.TMP_ScrollbarEventHandler
@@ -158,6 +159,7 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 b25c2463ba9144686d18d7707733226b Assembly-CSharp.dll:.NamePickGui
 24f79094aff162c9aa69c31d64d777d3 PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.OnClickRpc
 71bb6a6b6c8f052f948db64c7dd3ca4f PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.PunPlayerScores
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:GameHolic.PUNTutorial.PlayerNameInputField
 e7aa62e1f291228958626e122c23c8f0 PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.ConnectAndJoinRandom
 1aec3137280638278bc9bcbe5b3bc1b3 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.PunCockpitEmbed
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
@@ -197,6 +199,7 @@ c656dcc13ae391b68d594cc8f9c590b0 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.Cou
 c656dcc13ae391b68d594cc8f9c590b0 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.CurrentRoomIsVisibleProperty
 c656dcc13ae391b68d594cc8f9c590b0 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.CurrentRoomEmptyRoomTtlProperty
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
+a30961b61e9f58c8c2f9cccf2aac61f7 Assembly-CSharp.dll:GameHolic.PUNTutorial.Launcher
 d9aa52c5a283a9b8a790e55c0dee9ccf Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.RegionListCell
 c656dcc13ae391b68d594cc8f9c590b0 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.IsConnectedProperty
 7954c73c8700508fa751e8a786dcffba PhotonUnityNetworking.dll:Photon.Pun.ServerSettings
@@ -300,11 +303,12 @@ c656dcc13ae391b68d594cc8f9c590b0 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.Cur
 e4aa02db6487ad3aebb8e2f22ee6b699 Assembly-CSharp.dll:Photon.Pun.Demo.Procedural.WorldGenerator
 55fd795e51da61232a17e9ce0af59f52 Assembly-CSharp.dll:Photon.Pun.Demo.Asteroids.Spaceship
 c4ee9b89439941da9fa425f292d30a1e Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.Forms.ConnectToRegionUIForm
+0b24359b178f2110b72f9b386ac3b17c Assembly-CSharp.dll:GameHolic.PUNTutorial.CameraWork
 6d8914af61cc16102d9173cfb5843138 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.BoolInputField
+bd4c580f02d31d4be48d7a47440392c4 Assembly-CSharp.dll:GameHolic.PUNTutorial.PlayerAnimatorManager
 c8283c7732e3b6aa70d28f1fed4430ca PhotonUnityNetworking.Utilities.dll:Photon.Pun.UtilityScripts.CountdownTimer
 f07d654754d37f82934d9057c671e9cc Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.Forms.UserIdUiForm
 c656dcc13ae391b68d594cc8f9c590b0 Assembly-CSharp.dll:Photon.Pun.Demo.Cockpit.CountOfRoomsProperty
 f0c4eb24258257daca58a9939f0894d2 Assembly-CSharp.dll:Photon.Pun.Demo.Asteroids.LobbyTopPanel
-a30961b61e9f58c8c2f9cccf2aac61f7 Assembly-CSharp.dll:GameHolic.PUNTutorial.Launcher
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:GameHolic.PUNTutorial.PlayerNameInputField
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:GameHolic.PUNTutorial.GameManager
+bb5e5873ceccb804a760a453949ad2e4 Assembly-CSharp.dll:GameHolic.PUNTutorial.PlayerManager
+17506aed23f5e4891023d05d1cf8f394 Assembly-CSharp.dll:GameHolic.PUNTutorial.PlayerUI
